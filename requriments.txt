@@ -1,0 +1,6 @@
+aiogram
+asyncio
+vedis
+requests
+behave
+babel
